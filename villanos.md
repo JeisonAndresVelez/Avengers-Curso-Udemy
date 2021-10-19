@@ -3,4 +3,4 @@
 * Dr. Doom
 * Red Skull
 * Dormammu
-* Whiplash
+* Capitan América
